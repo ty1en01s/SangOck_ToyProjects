@@ -37,5 +37,5 @@
 `data.csv` Generated Table of all observations
 
 ## Usages
-
+![대시보드 완성 예시 이미지](OceansEnv_Dashboard /data/dashboard_example.png)
 이 코드로 생성된 해양환경측정망 데이터를 활용한 종합 수질 대시보드 결과물은 [이 페이지](https://public.tableau.com/app/profile/sangock.kim/viz/_17033403477040/1_1?publish=yes)에서 확인할 수 있다.
